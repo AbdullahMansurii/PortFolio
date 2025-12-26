@@ -1,0 +1,90 @@
+{
+    "general": {
+        "title": "Why Me?",
+        "subtitle": "Bridging creativity and logic to build digital experiences.",
+        "text": "I’m a Computer Engineering student who focuses on building real systems, not just writing code. I enjoy working across the stack: frontend, backend, data, and blockchain, keeping scalability, clarity, and maintainability in mind.\n\nWhat sets me apart is my ability to adapt quickly across technologies, understand systems end-to-end, and translate ideas into working products. I’ve built full-stack platforms, experimented with Web3 architectures, and applied data-driven thinking to solve practical problems.",
+        "points": [
+            {
+                "icon": "Code",
+                "title": "Full Stack",
+                "desc": "React, Node.js, Python, SQL/NoSQL."
+            },
+            {
+                "icon": "Globe",
+                "title": "Web3 Ready",
+                "desc": "Solidity, Smart Contracts, DApps."
+            },
+            {
+                "icon": "Zap",
+                "title": "Problem Solver",
+                "desc": "Turning abstract ideas into shipping code."
+            }
+        ]
+    },
+    "react": {
+        "title": "Why Me for React?",
+        "subtitle": "Pixel-perfect UIs with performance at the core.",
+        "text": "I don't just use React; I understand its rendering lifecycle, state management patterns, and optimization techniques. From complex dashboards to immersive 3D portfolios, I build component-driven architectures that are reusable, testable, and maintainable.\n\nMy focus is on creating fluid user experiences with Framer Motion and GSAP, ensuring that every interaction feels refined and responsive across all devices.",
+        "points": [
+            {
+                "icon": "Sparkles",
+                "title": "Advanced UI",
+                "desc": "Complex animations & 3D integrations."
+            },
+            {
+                "icon": "Zap",
+                "title": "Performance",
+                "desc": "Memoization, lazy loading, optimized builds."
+            },
+            {
+                "icon": "Code",
+                "title": "Clean Code",
+                "desc": "Scalable folder structure & custom hooks."
+            }
+        ]
+    },
+    "mern": {
+        "title": "Why Me for MERN Stack?",
+        "subtitle": "End-to-end JavaScript excellence.",
+        "text": "I build robust, scalable web applications using the MERN stack. I specialize in designing RESTful APIs with Node.js and Express, optimizing MongoDB schemas for performance, and connecting it all to a dynamic React frontend.\n\nI handle everything from authentication (JWT/OAuth) to real-time features using Socket.io, ensuring a seamless flow of data between the client and server while maintaining strict security standards.",
+        "points": [
+            {
+                "icon": "Shield",
+                "title": "Secure API",
+                "desc": "JWT Auth, Rate Limiting, Data Validation."
+            },
+            {
+                "icon": "Database",
+                "title": "Data Modeling",
+                "desc": "Efficient MongoDB aggregation & indexing."
+            },
+            {
+                "icon": "Globe",
+                "title": "Real-time",
+                "desc": "Live updates & notifications integration."
+            }
+        ]
+    },
+    "ai": {
+        "title": "Why Me for AI & Data?",
+        "subtitle": "Turning data into actionable intelligence.",
+        "text": "Beyond traditional development, I have a strong foundation in Data Science and Machine Learning. I use Python, Pandas, and Scikit-Learn to analyze data and build predictive models.\n\nWhether it's integrating an AI API into a web app or performing Exploratory Data Analysis (EDA) to uncover insights, I bridge the gap between complex algorithms and user-friendly applications.",
+        "points": [
+            {
+                "icon": "Brain",
+                "title": "ML Integration",
+                "desc": "Deploying models to production web apps."
+            },
+            {
+                "icon": "Chart",
+                "title": "Data Analysis",
+                "desc": "Pandas, NumPy, & Visualization tools."
+            },
+            {
+                "icon": "Bot",
+                "title": "Automation",
+                "desc": "Building smart workflows & agents."
+            }
+        ]
+    }
+}

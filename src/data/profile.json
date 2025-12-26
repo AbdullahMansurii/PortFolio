@@ -1,0 +1,46 @@
+{
+    "name": "Abdullah Mansuri",
+    "tagline": "Specializing in Full-Stack Web Development and Web3 Technologies.",
+    "bio": "I’m a Computer Engineering student who focuses on building real systems, not just writing code. I enjoy working across the stack : frontend, backend, data, and blockchain while keeping scalability, clarity, and maintainability in mind.\n\nWhat sets me apart is my ability to adapt quickly across technologies, understand systems end to end, and translate ideas into working products. I’ve built full-stack platforms, experimented with Web3 architectures, and applied data-driven thinking to solve practical problems.",
+    "shortBio": "I focus on building practical, scalable systems using modern web, backend, and Web3 technologies. I learn fast, adapt quickly, and care deeply about writing clean, maintainable code that actually solves problems.",
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (B.E.) in Computer Science",
+            "institution": "LJ University, Ahmedabad, Gujarat, India",
+            "year": "Expected Graduation 2026"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Building Generative AI-Powered Applications with Python",
+            "issuer": "IBM",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/JE0MZAAA80GP"
+        },
+        {
+            "name": "AWS Cloud Technical Essentials",
+            "issuer": "Amazon Web Services (AWS)",
+            "url": "https://www.coursera.org/account/accomplishments/verify/3FUH4PSW1C3T"
+        },
+        {
+            "name": "Exploratory Data Analysis for Machine Learning",
+            "issuer": "IBM",
+            "url": "https://www.coursera.org/account/accomplishments/verify/67YH9D4IWRC4"
+        },
+        {
+            "name": "HTML, CSS, and JavaScript for Web Developers",
+            "issuer": "Johns Hopkins University",
+            "url": "https://www.coursera.org/account/accomplishments/verify/NDUZM87JZ3D2"
+        },
+        {
+            "name": "Inheritance and Data Structures in Java",
+            "issuer": "Penn Engineering",
+            "url": "https://www.coursera.org/account/accomplishments/verify/6UYXCVQLZQB6"
+        }
+    ],
+    "contact": {
+        "email": "abdullahmansuri1636@gmail.com",
+        "github": "https://github.com/AbdullahMansurii",
+        "linkedin": "https://www.linkedin.com/in/abdullah1636/",
+        "instagram": "https://www.instagram.com/abdullahmansurii/"
+    }
+}

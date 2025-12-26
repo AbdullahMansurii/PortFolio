@@ -1,0 +1,66 @@
+[
+    {
+        "id": "indiverse",
+        "title": "Indiverse",
+        "tagline": "Direct mentorship. Zero middlemen.",
+        "desc": "A premium mentorship platform that connects aspirants directly with verified mentors. Features transparent guidance without intermediaries.",
+        "tech": [
+            "React",
+            "Tailwind CSS",
+            "Supabase",
+            "Framer Motion"
+        ],
+        "repoUrl": "https://github.com/AbdullahMansurii/IndiVerse",
+        "liveUrl": "https://indi-verse-six.vercel.app/",
+        "image": "/projects/indiverse.png",
+        "featured": true
+    },
+    {
+        "id": "rextoken",
+        "title": "Rex Token",
+        "tagline": "Full-stack crypto platform.",
+        "desc": "Crypto-themed web app with premium dark UI, user/admin dashboards, and role-based access control.",
+        "tech": [
+            "React 19",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "JWT"
+        ],
+        "repoUrl": "https://github.com/AbdullahMansurii/Rex-Token",
+        "liveUrl": "https://rextoken-delta.vercel.app/",
+        "image": "/projects/rextoken.png",
+        "featured": true
+    },
+    {
+        "id": "movie-rec",
+        "title": "Movie Rec System",
+        "tagline": "AI personalized discovery.",
+        "desc": "ML-based recommendation system using collaborative filtering to suggest movies based on user preferences.",
+        "tech": [
+            "Python",
+            "Streamlit",
+            "Pandas",
+            "Sklearn"
+        ],
+        "repoUrl": "https://github.com/AbdullahMansurii/Movie_Recommendation_System",
+        "liveUrl": null,
+        "image": "/projects/movie-rec.png",
+        "featured": false
+    },
+    {
+        "id": "img-enhance",
+        "title": "Image Enhancer",
+        "tagline": "CLI Image Processing.",
+        "desc": "Python-based tool for applying image processing techniques via a clean command-line interface.",
+        "tech": [
+            "Python",
+            "PIL",
+            "CLI"
+        ],
+        "repoUrl": "https://github.com/AbdullahMansurii/image_editor",
+        "liveUrl": null,
+        "image": "/projects/img-enhance.png",
+        "featured": false
+    }
+]

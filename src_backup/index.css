@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-dark-bg text-gray-200 font-sans antialiased overflow-x-hidden;
+  }
+}
+
+@layer components {
+  .neon-text {
+    @apply text-neon-primary drop-shadow-[0_0_8px_rgba(0,243,255,0.5)];
+  }
+  .neon-border {
+    @apply border border-neon-primary box-shadow-[0_0_8px_rgba(0,243,255,0.3)];
+  }
+}

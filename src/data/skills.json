@@ -1,0 +1,50 @@
+{
+    "Programming & Core": [
+        "Python",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "C++",
+        "Java"
+    ],
+    "Frontend": [
+        "React.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "GSAP",
+        "Vite",
+        "Responsive Design"
+    ],
+    "Backend": [
+        "Node.js",
+        "Express.js",
+        "REST API",
+        "JWT Auth",
+        "Multer"
+    ],
+    "Database": [
+        "SQL",
+        "MongoDB",
+        "Oracle",
+        "Firebase",
+        "PL/SQL"
+    ],
+    "Web3": [
+        "Solidity",
+        "Smart Contracts",
+        "Web3 Fundamentals"
+    ],
+    "Data & AI": [
+        "Pandas",
+        "EDA",
+        "Machine Learning Basics",
+        "Streamlit"
+    ],
+    "Tools": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Jira",
+        "Postman"
+    ]
+}

@@ -1,0 +1,119 @@
+Name: Abdullah Mansuri
+
+Summary Bio:
+Computer Engineering (B.E.) student at LJ University, Ahmedabad, specializing in full-stack web development and Web3 technologies. Proficient in Python, JavaScript, React.js, Node.js, SQL, along with Solidity, smart contracts, and crypto-based systems.
+
+Experienced in building scalable web applications, RESTful APIs, and data-driven platforms, with exposure to Agile workflows, clean architecture, and collaborative development practices.
+
+Driven by problem-solving and system-level thinking, with a strong interest in ERP, MES, AI, IoT, supply chain platforms, and blockchain-powered applications.
+
+🎓 EDUCATION
+
+Bachelor of Engineering (B.E.) in Computer Science
+LJ University, Ahmedabad, Gujarat, India
+Expected Graduation: 2026
+
+💼 EXPERIENCE
+
+SEO Intern
+Strive Digitals
+Optimized website content, metadata, and on-page structure to improve search engine visibility and rankings
+Conducted keyword research and competitor analysis to support SEO strategy
+Prepared and analyzed SEO performance reports using standard analytics tools
+Assisted in improving organic traffic quality through structured optimization practices
+
+🧠 SKILLS
+Programming & Core Technologies
+Python
+JavaScript
+HTML5, CSS3
+
+Frontend Development
+React.js
+Responsive UI Development
+Component-Based Architecture
+
+Backend & Full-Stack Development
+Node.js
+Express.js
+MERN Stack
+REST API Development
+Authentication & Data Handling
+
+Databases & Data Management
+SQL
+MongoDB
+Oracle
+Database Design
+Stored Procedures & Triggers
+
+Web3 & Blockchain
+Solidity
+Smart Contracts
+Web3 Fundamentals
+Crypto-based Application Concepts
+
+Data & AI
+Exploratory Data Analysis (EDA)
+Machine Learning Fundamentals
+Recommendation Systems
+
+Tools & Platforms
+Git, GitHub, GitLab
+Bitbucket
+Jira
+Firebase
+VS Code
+
+SEO & Digital Analytics
+Keyword Research
+On-Page & Off-Page SEO
+Competitor Analysis
+Google Analytics (Basics)
+
+Professional Skills
+Agile Methodology
+Problem Solving
+Critical Thinking
+Team Collaboration
+Clear Communication
+
+🚀 PROJECTS
+Indiverse
+Tagline: Direct mentorship. Zero middlemen.
+Description: Indiverse is a premium mentorship platform that connects aspirants directly with verified mentors—students currently studying at top global universities.
+Tech Stack: React (Vite), Tailwind CSS, Framer Motion, Supabase
+Live Demo: https://indi-verse-six.vercel.app/
+GitHub: https://github.com/AbdullahMansurii/IndiVerse
+
+Rex Token
+Tagline: A full-stack crypto platform built for scale.
+Description: RexToken is a full-stack crypto-themed web application featuring a premium dark UI, user and admin dashboards, protected routes, and role-based access control.
+Tech Stack: React 19, Vite 7, Tailwind CSS, Node.js, Express.js, MongoDB, JWT Authentication
+Live Demo: https://rextoken-delta.vercel.app/
+GitHub: https://github.com/AbdullahMansurii/Rex-Token
+
+Movie Recommendation System
+Tagline: Personalized movie discovery powered by ML.
+Description: A machine learning-based recommendation system using collaborative filtering to suggest movies based on user preferences.
+Tech Stack: Python 3.9.7, Streamlit, Pandas, Requests
+Live Demo: Not deployed
+GitHub: https://github.com/AbdullahMansurii/Movie_Recommendation_System
+
+Image Enhancement Tool
+Tagline: Simple image processing with powerful results.
+Description: A Python-based image enhancement tool that applies various image processing techniques through a clean and flexible command-line interface.
+Tech Stack: Python 3.x, PIL, CLI Interface
+Live Demo: Not deployed
+GitHub: https://github.com/AbdullahMansurii/image_editor
+
+🎓 CERTIFICATIONS
+Building Generative AI-Powered Applications with Python - IBM
+AWS Cloud Technical Essentials - AWS
+Exploratory Data Analysis for Machine Learning - IBM
+HTML, CSS, and JavaScript for Web Developers - Johns Hopkins University
+Inheritance and Data Structures in Java - Penn Engineering
+
+🔗 CONTACT LINKS
+GitHub: https://github.com/AbdullahMansurii
+LinkedIn: (add when ready)
